@@ -38,7 +38,7 @@ function reverse(str){
 //}
 
 
-reverse('asdf')
+reverse('asdasd')
 
 
 module.exports = reverse;
